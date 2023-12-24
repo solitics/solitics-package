@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
     name: "SoliticsMasterPackage",
     products: [
-        .library(name: "SoliticsSwiftPackage", targets: ["SoliticsMasterPackage"])
+        .library(name: "SoliticsLibrary", targets: ["SoliticsMasterPackage"])
     ],
     dependencies: [
       .package(id: "swift.solitics", exact: "1.0.4")
