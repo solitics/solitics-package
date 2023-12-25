@@ -67,7 +67,7 @@ touch ./Package.swift
 ```bash
 swift package-registry set "https://soliticsmobilesdk.jfrog.io/artifactory/api/swift/"
 ```
-If you want to double check the command sucedded run the following command
+If you want to double check the command succeeded run the following command
 ```bash
 vi ./.swiftpm/configuration/registries.json
 ```
