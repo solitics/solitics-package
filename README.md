@@ -65,7 +65,7 @@ touch ./Package.swift
 4. Use the following command to set the registry
 * If you want to add the registry for every project add the `--global` flag
 ```bash
-swift package-registry set "https://soliticsmobilesdk.jfrog.io/artifactory/api/swift/"
+swift package-registry set "https://soliticsmobilesdk.jfrog.io/artifactory/api/swift/solitics-mobile-spm-swift"
 ```
 If you want to double check the command succeeded run the following command
 ```bash
@@ -84,7 +84,7 @@ You should see the following content:
   "registries" : {
     "[default]" : {
       "supportsAvailability" : false,
-      "url" : "https://soliticsmobilesdk.jfrog.io/artifactory/api/swift/"
+      "url" : "https://soliticsmobilesdk.jfrog.io/artifactory/api/swift/solitics-mobile-spm-swift"
     }
   },
   "version" : 1
