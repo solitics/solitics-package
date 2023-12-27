@@ -19,7 +19,7 @@ gaining access to it.
 
 3. [Support](#support)
     - [Troubleshoot](#troubleshoot)
-    - [Contact Us](#contact-us) ###### TODO
+    - [Contact Us](#contact-us) 
 ____
 
 ## JFrog Configuration
