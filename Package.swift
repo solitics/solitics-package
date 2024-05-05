@@ -14,7 +14,7 @@ package.products    = [
     .library(name: "SoliticsLibrary", targets: ["SoliticsPackage"])
 ]
 package.dependencies = [
-    .package(id: "swift.solitics", from: "3.0.0")
+    .package(id: "swift.solitics", from: "3.0.2")
 ]
 package.targets     = [
     // Targets are the basic building blocks of a package, defining a module or a test suite.
