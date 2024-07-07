@@ -28,6 +28,9 @@ ____
 For the authentication to work properly, make sure you first follow the setup process as described in the JFrog "set me up" panel.
 
 * ### Keychain Authentication
+
+**Please note: This step is no longer needed as the security policy has changed.**
+
 For authentication with the private JFrog Swift Registry, you need to set up an internet password in your keychain. Follow these steps:
 
 1. Open Keychain Access on your macOS.
@@ -189,6 +192,3 @@ You should see the following content:
 ```
 
 If this does not help, try re-adding the registry. [Set Registry](#set-registry)
-
-
-      
